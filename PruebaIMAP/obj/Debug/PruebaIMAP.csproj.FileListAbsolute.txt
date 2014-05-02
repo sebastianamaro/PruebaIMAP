@@ -1,0 +1,12 @@
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\PruebaIMAP.exe.config
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\PruebaIMAP.exe
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\PruebaIMAP.pdb
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\BouncyCastle.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\MailKit.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\MimeKit.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\BouncyCastle.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\MailKit.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\bin\Debug\MimeKit.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\obj\Debug\PruebaIMAP.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\obj\Debug\PruebaIMAP.exe
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\PruebaIMAP\obj\Debug\PruebaIMAP.pdb

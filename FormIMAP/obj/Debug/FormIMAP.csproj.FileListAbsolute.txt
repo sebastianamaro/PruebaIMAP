@@ -1,0 +1,15 @@
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\FormIMAP.exe.config
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\FormIMAP.exe
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\FormIMAP.pdb
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\BouncyCastle.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\MailKit.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\MimeKit.dll
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\BouncyCastle.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\MailKit.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\bin\Debug\MimeKit.xml
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.csprojResolveAssemblyReference.cache
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.Form1.resources
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.Properties.Resources.resources
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.csproj.GenerateResource.Cache
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.exe
+c:\users\sebastian\documents\visual studio 2012\Projects\PruebaIMAP\FormIMAP\obj\Debug\FormIMAP.pdb
